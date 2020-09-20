@@ -1,1 +1,1 @@
-https://plyolik.github.io/rsschool-cv/cv
+https://plyolik.github.io/rsschool-cv/
