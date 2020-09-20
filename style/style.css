@@ -1,0 +1,35 @@
+body {
+  font-family: Arial;
+  line-height: 20px;
+  font-size: 16px;
+}
+
+#container {
+  max-width: 1024px;
+  margin: 0 auto;
+}
+
+#credo {
+  font-style: italic;
+  color: darkgrey;
+  padding: 7px 10px 7px 100px;
+  border-top: 2px solid lightgrey;
+  border-bottom: 2px solid lightgrey;
+}
+
+table {
+  text-align: left;
+  font-size: 14px;
+  padding-top: 10px;
+}
+
+h4 {
+  border-bottom: 4px solid lightgrey;
+  padding-bottom: 5px;
+  padding-top: 10px;
+  font-size: 18px;
+}
+
+td {
+  padding-right: 32px;
+}
